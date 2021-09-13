@@ -1,6 +1,6 @@
-# SummerOlympics-Data-Analysis-Assignment
+## SummerOlympics-Data-Analysis-Assignment
 
-This repository contains the files related to the Second Assignment of ETG Internship.The Assignment is about Analysing the data of Summmer Olympics by giving answers of some of the following questions:-
+# This repository contains the files related to the Second Assignment of ETG Internship.The Assignment is about Analysing the data of Summmer Olympics by giving answers of some of the following questions:-
 
 1. In how many cities Summer Olympics is held so far ?
 2. Which sport is having most number of Gold Medals so far ? (Top 5)
